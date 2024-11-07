@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Gerimis ringan",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "sa7Lvb24UEi7mdCJzGS1Bg",
+  "Reference": "Kfu0gYWOo0eqzx9qeUiYkQ/sa7Lvb24UEi7mdCJzGS1Bg",
+  "ParentRef": "Kfu0gYWOo0eqzx9qeUiYkQ/waW14UXwrE65vFF4u7Hz_g",
+  "Created": "2024-11-05T14:09:15.6817244Z",
+  "Updated": "2024-11-05T14:09:15.6817244Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

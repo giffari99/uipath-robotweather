@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="llRuJuhIpE65tKBsnVbUCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.uk/search" CVScreenId="ba3ef4b7-8e89-4f1c-a1e8-11d6e10ae170" CvTextArea="735, 418, 105, 18" CvType="AnyWordGroup" DesignTimeRectangle="736, 418, 104, 17" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' type='' class='' /&gt;" Guid="1c07be14-de8f-499c-86e8-8d1dd3ac7467" ScopeSelectorArgument="&lt;html app='chrome.exe' title='cuaca bandung - Penelusuran Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f95aed0be382679dcaa4e7c000a09d22.png" xmlns="">0LUwf5NGLRk6RRPKLh76VUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
